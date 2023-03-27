@@ -9,7 +9,7 @@
 - Desenvolvedor Desktop, tendo como linguagem principal VB6, mas utilizando também C# em algumas situações.
 - Experiencia em QA.
 - Experiência com Bancos de Dados Relacionais
-- 
+
 ![Github Badge](https://img.shields.io/badge/-VB6-orange)
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 
