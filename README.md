@@ -17,7 +17,8 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="sqlServer" width="40" height="40"/> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Firebird_logo.svg/353px-Firebird_logo.svg.png" alt="Firebird" width="40" height="40"/>  
+<a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Firebird_logo.svg/353px-Firebird_logo.svg.png" alt="Firebird" width="40" height="40"/>  
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSql" width="40" height="40"/> 
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrelsehnem&theme=github_dark)
