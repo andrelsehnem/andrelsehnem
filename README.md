@@ -6,7 +6,7 @@
 
 
 ### Sobre mim
-- Desenvolvedor Desktop, tendo como linguagem principal VB6, mas utilizando também C# em algumas situações.
+- Desenvolvedor Desktop, tendo como linguagens VB6 e C#.
 - Experiencia em QA.
 - Experiência com Bancos de Dados Relacionais
 
